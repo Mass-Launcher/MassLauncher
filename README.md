@@ -9,6 +9,18 @@
 
 ---
 
+## 📺 Watch the demo
+
+<a href="https://masslauncher.fun/demo.mp4">
+  <img src="https://masslauncher.fun/demo-poster.jpg" alt="Watch MassLauncher in action" width="100%" />
+</a>
+
+<p align="center">
+  <a href="https://masslauncher.fun/demo.mp4"><b>▶ Watch full demo (5 MB MP4)</b></a>
+</p>
+
+---
+
 ## 🚀 What is MassLauncher?
 
 **MassLauncher is a hosted service for mass-launching meme coins on [pump.fun](https://pump.fun).** Built for traders, project devs, and degens who want to flood pump.fun's new-pairs feed and get free visibility for their tokens — no ad spend, no waiting for virality.
@@ -29,6 +41,25 @@ Every coin you launch lands on pump.fun's live feed. Spam-launch 25, 50, or 100 
 - **Three coin profiles** — save and re-fire your favorite memecoins
 - **Volume discounts** — every additional pump.fun launch is automatically a touch cheaper
 - **Pre-funded wallet pool** — no waiting on rent or fee reservations
+
+## 🆚 MassLauncher vs. the alternatives
+
+| | pump.fun directly | DIY script | **MassLauncher** |
+|---|:---:|:---:|:---:|
+| Launch a single coin | ✅ | ✅ | ✅ |
+| Mass-launch 25 coins in <5 s | ❌ one at a time | ⚠️ if you wrote it | ✅ |
+| Browser wallet (Phantom etc.) required | ✅ | ✅ | **❌ auto-generated** |
+| Sign in with Telegram / Google / Email | ❌ | ❌ | ✅ |
+| Pre-funded wallet pool | ❌ | ❌ | ✅ |
+| Time to first launch | ~5 min setup | hours / days | ~30 sec |
+| Per-launch price | ~free + bonding curve | ~free + gas | from **0.015 SOL** |
+| Web app + Telegram bot, one account | ❌ | ❌ | ✅ |
+| Live pump.fun new-pairs feed in-app | ❌ | DIY | ✅ |
+| Refunds on failed launches | ❌ | DIY | ✅ |
+
+**TL;DR:** pump.fun lets you launch one coin at a time and assumes you have a Solana wallet set up. A DIY script can mass-launch but you need to write, host, fund, and maintain it yourself. MassLauncher gives you the same volume + speed with zero setup.
+
+---
 
 ## 🛠 How it works
 
