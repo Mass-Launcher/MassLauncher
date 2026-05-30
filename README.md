@@ -44,20 +44,19 @@ Every coin you launch lands on pump.fun's live feed. Spam-launch 25, 50, or 100 
 
 ## 🆚 MassLauncher vs. the alternatives
 
-| | pump.fun directly | DIY script | **MassLauncher** |
+| | pump.fun directly | Uxento | **MassLauncher** |
 |---|:---:|:---:|:---:|
 | Launch a single coin | ✅ | ✅ | ✅ |
-| Mass-launch 25 coins in <5 s | ❌ one at a time | ⚠️ if you wrote it | ✅ |
-| Browser wallet (Phantom etc.) required | ✅ | ✅ | **❌ auto-generated** |
-| Sign in with Telegram / Google / Email | ❌ | ❌ | ✅ |
-| Pre-funded wallet pool | ❌ | ❌ | ✅ |
-| Time to first launch | ~5 min setup | hours / days | ~30 sec |
-| Per-launch price | ~free + bonding curve | ~free + gas | from **0.015 SOL** |
+| Mass-launch 25 coins in <5 s | ❌ one at a time | ❌ | ✅ |
+| Browser wallet (Phantom etc.) required | ✅ | ❌ | **❌ auto-generated** |
+| Sign in with Telegram / Google / Email | ❌ | ✅ | ✅ |
+| Time to first launch | ~5 min setup | ~2 min | ~30 sec |
+| Per-launch price | bonding curve only | bonding curve + Uxento fee + dev tip | from **0.015 SOL** |
 | Web app + Telegram bot, one account | ❌ | ❌ | ✅ |
-| Live pump.fun new-pairs feed in-app | ❌ | DIY | ✅ |
-| Refunds on failed launches | ❌ | DIY | ✅ |
+| Live pump.fun new-pairs feed in-app | ❌ | ❌ | ✅ |
+| Refunds on failed launches | ❌ | ✅ | ✅ |
 
-**TL;DR:** pump.fun lets you launch one coin at a time and assumes you have a Solana wallet set up. A DIY script can mass-launch but you need to write, host, fund, and maintain it yourself. MassLauncher gives you the same volume + speed with zero setup.
+**TL;DR:** pump.fun lets you launch one coin at a time. Uxento has a slick trading terminal but isn't built for mass launching. MassLauncher gives you mass-launch speed with zero wallet setup and the cheapest per-launch price.
 
 ---
 
