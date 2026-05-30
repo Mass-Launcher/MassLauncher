@@ -9,14 +9,14 @@
 
 ---
 
-## 📺 Watch the demo
+## 📺 See it in action
 
 <a href="https://masslauncher.fun/demo.mp4">
-  <img src="https://masslauncher.fun/demo-poster.jpg" alt="Watch MassLauncher in action" width="100%" />
+  <img src="https://masslauncher.fun/demo.webp" alt="MassLauncher mass-launching pump.fun coins" width="100%" />
 </a>
 
 <p align="center">
-  <a href="https://masslauncher.fun/demo.mp4"><b>▶ Watch full demo (5 MB MP4)</b></a>
+  <a href="https://masslauncher.fun/demo.mp4"><b>▶ Watch in HD (5 MB MP4)</b></a>
 </p>
 
 ---
@@ -48,7 +48,6 @@ Every coin you launch lands on pump.fun's live feed. Spam-launch 25, 50, or 100 
 |---|:---:|:---:|:---:|
 | Launch a single coin | ✅ | ✅ | ✅ |
 | Mass-launch 25 coins in <5 s | ❌ one at a time | ❌ | ✅ |
-| Browser wallet (Phantom etc.) required | ✅ | ❌ | **❌ auto-generated** |
 | Sign in with Telegram / Google / Email | ❌ | ✅ | ✅ |
 | Time to first launch | ~5 min setup | ~2 min | ~30 sec |
 | Per-launch price | bonding curve only | bonding curve + Uxento fee + dev tip | from **0.015 SOL** |
