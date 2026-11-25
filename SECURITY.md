@@ -10,7 +10,9 @@ issue.
 **Report channels:**
 
 - **Twitter DM**: [@masslauncher](https://x.com/masslauncher)
-- **Telegram**: [@MassLauncherBot](https://t.me/MassLauncherBot) — send `/contact`
+- **Telegram**: open [@MassLauncherBot](https://t.me/MassLauncherBot) and use its support link.
+
+Share a public transaction signature or job reference if relevant, never an API key, seed phrase or wallet private key.
 
 We'll respond within 48 hours and work with you on disclosure timing.
 
