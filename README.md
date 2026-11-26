@@ -4,9 +4,11 @@ Save one coin profile, choose a quantity, and get the mint address for each conf
 
 ### [Open the website →](https://masslauncher.fun/?utm_source=github&utm_medium=referral&utm_campaign=masslauncher_api&utm_content=overview) · [Start the Telegram bot →](https://t.me/MassLauncherBot?start=src_github_overview)
 
+**Building with the [Pump.fun batch launch API](https://masslauncher.fun/blog/pump-fun-launch-api)?** Send a saved coin profile and a quantity in one request. Asking for five launches returns one job ID. Read the job to see which coins have confirmed mint addresses and which are pending or failed. [Get an API key](https://masslauncher.fun/app/api-keys?utm_source=github&utm_medium=referral&utm_campaign=masslauncher_api&utm_content=overview).
+
 [![Open the MassLauncher website. Preview of the web launcher and credit calculator.](images/masslauncher-web.jpg)](https://masslauncher.fun/?utm_source=github&utm_medium=referral&utm_campaign=masslauncher_api&utm_content=overview)
 
-**Here for the API?** [Create an API key on the website](https://masslauncher.fun/app/api-keys?utm_source=github&utm_medium=referral&utm_campaign=masslauncher_api&utm_content=overview), then [test it in Postman](https://masslauncher.fun/blog/pump-fun-api-postman?utm_source=github&utm_medium=referral&utm_campaign=masslauncher_api&utm_content=overview). The [included collection](examples/masslauncher-readonly.postman_collection.json) checks your balance, saved profiles and recent jobs. It contains no launch request; zero credits is enough to try it.
+To test your key without launching anything, [open the Postman walkthrough](https://masslauncher.fun/blog/pump-fun-api-postman?utm_source=github&utm_medium=referral&utm_campaign=masslauncher_api&utm_content=overview). The [included collection](examples/masslauncher-readonly.postman_collection.json) only reads your balance, saved profiles and recent jobs. Zero credits is enough.
 
 Already using Telegram? [Use that same account for the API](https://masslauncher.fun/blog/pump-fun-api-telegram?utm_source=github&utm_medium=referral&utm_campaign=masslauncher_api&utm_content=overview). According to MassLauncher’s founder, multiple multimillion-dollar projects have used the API. That describes the projects, not the value of transactions processed through the service.
 
