@@ -1,10 +1,14 @@
-# MassLauncher | Pump.fun batch launcher on Solana
+# MassLauncher — Pump.fun batch launcher and API for Solana
 
-Save a coin profile once, choose a quantity, and get a separate Pump.fun mint address for each successful launch. Use the web app for up to **25 coins per order**, or the Telegram bot for up to **100**. If you want just one coin with one market, choose one launch.
+Save one coin profile, choose a quantity, and get the mint address for each confirmed Pump.fun launch. Use the website, Telegram, or call the hosted API from your backend.
 
-[Open MassLauncher](https://masslauncher.fun/) · [Telegram bot](https://t.me/MassLauncherBot) · [Developer quickstart](https://masslauncher.fun/blog/pump-fun-launch-api)
+### [Open the website →](https://masslauncher.fun/?utm_source=github&utm_medium=referral&utm_campaign=masslauncher_api&utm_content=overview) · [Start the Telegram bot →](https://t.me/MassLauncherBot?start=src_github_overview)
 
-[![Current MassLauncher website showing the Pump.fun launcher and pricing buttons](images/masslauncher-web.jpg)](https://masslauncher.fun/)
+[![Open the MassLauncher website. Preview of the web launcher and credit calculator.](images/masslauncher-web.jpg)](https://masslauncher.fun/?utm_source=github&utm_medium=referral&utm_campaign=masslauncher_api&utm_content=overview)
+
+**Here for the API?** [Create an API key on the website](https://masslauncher.fun/app/api-keys?utm_source=github&utm_medium=referral&utm_campaign=masslauncher_api&utm_content=overview), then [test it in Postman](https://masslauncher.fun/blog/pump-fun-api-postman?utm_source=github&utm_medium=referral&utm_campaign=masslauncher_api&utm_content=overview). The [included collection](examples/masslauncher-readonly.postman_collection.json) checks your balance, saved profiles and recent jobs. It contains no launch request; zero credits is enough to try it.
+
+Already using Telegram? [Use that same account for the API](https://masslauncher.fun/blog/pump-fun-api-telegram?utm_source=github&utm_medium=referral&utm_campaign=masslauncher_api&utm_content=overview). According to MassLauncher’s founder, multiple multimillion-dollar projects have used the API. That describes the projects, not the value of transactions processed through the service.
 
 ## What you can do
 
@@ -26,4 +30,4 @@ For actual timing data, see the [100-request Telegram benchmark](https://masslau
 
 This is the public product guide. The live service is hosted at [masslauncher.fun](https://masslauncher.fun/); there is no bot to install from this repository. For a worked first order, see the [companion GitHub quickstart](https://github.com/Mass-Launcher/pumpfun-mass-launcher). For a specific question, see [pricing](docs/pricing.md), [frequent questions](docs/faq.md), or the [full guides library](https://masslauncher.fun/blog).
 
-[Support on Telegram](https://t.me/MassLauncherBot) · [Updates on X](https://x.com/masslauncher) · [Private security reporting](SECURITY.md) · [License](LICENSE)
+[Message support on Telegram](https://t.me/susko_insider) · [Updates on X](https://x.com/masslauncher) · [Private security reporting](SECURITY.md) · [License](LICENSE)
